@@ -1,0 +1,36 @@
+{
+  "name": "grunt-jquerymobiletransform",
+  "description": "Grunt task for transforming HTML files with jQuery Mobile",
+  "version": "0.1.1",
+  "homepage": "https://github.com/vivektiwari1986/-grunt-jquerymobiletransform",
+  "author": {
+    "name": "Vivek Tiwari",
+    "email": "vivektiwari1986@gmail.com",
+    "url": "http://flickr.com/photos/vivekt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vivektiwari1986/-grunt-jquerymobiletransform.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vivektiwari1986/-grunt-jquerymobiletransform/issues"
+  },
+  "main": "grunt.js",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "dependencies": {
+    "jsdom": "0.2.x"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.0"
+  },
+  "keywords": [
+    "gruntplugin",
+    "jquery",
+    "jquerymobile"
+  ]
+}
