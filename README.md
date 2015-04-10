@@ -1,5 +1,7 @@
 # jQuery Transform
 
+#Not an active plugin. Please make a pull-request if you ntend to fix it.
+
 grunt-jquerymobiletransform is a grunt task for transforming HTML files with jQuerymobile
 
 ## Installation
